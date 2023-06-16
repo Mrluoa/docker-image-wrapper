@@ -1,1 +1,1 @@
-form jenkinsci/blueocean
+FROM  jenkinsci/blueocean
